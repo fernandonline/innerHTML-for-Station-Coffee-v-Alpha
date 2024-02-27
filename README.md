@@ -1,4 +1,4 @@
-projeto voltado para o site stattion coofee.
+projeto voltado para o site Stattion Coffee. (https://stationcoffee.miolly.tech)
 a função desse programa consiste em simplesmente eliminar a necessidade de escrever codigos html para a publicação no site.
 em sua fase alfa, apenas uma pequena demonstração de como o programa funciona, seguem detalhes:
 
