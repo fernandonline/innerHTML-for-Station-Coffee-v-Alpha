@@ -8,6 +8,8 @@ em sua fase alfa, apenas uma pequena demonstração de como o programa funciona,
 - cria subtitulo estilizado e em uppercase
 - exibe o texto
 
+- ao final, após escrever nos espaços destinados corretamente, é criado um arquivo .html com todo o conteúdo adicionado em suas tags correspondentes, esse arquivo é baixado para seu computador no momento que o usuário clica no botão "finalizar".
+
 uma versão mais completa e exclusiva para o site será escrita para uso interno. (o codigo dessa versão não estará disponivel).
 
 uma versão completa e de facil edição desse projeto está nos planos e poderá ser compartilhado futuramente.
