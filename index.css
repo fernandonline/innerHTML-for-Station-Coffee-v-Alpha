@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+}
+
+.corpo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    width: 20rem;
+    height: 30rem;
+}
+
+.corpo2 {
+    margin-left: 1rem;
+}
+
+h1 {
+    margin-bottom: 2rem;
+}
+
+textarea {
+    width: 15rem;
+    resize: none;
+}
+
+.texto textarea {
+    height: 6rem;
+}
+
+.titulo textarea {
+    text-transform: uppercase;
+}
+
+.subtitulo textarea {
+    text-transform: uppercase;
+}
